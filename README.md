@@ -15,4 +15,4 @@ This project is divided into three modules.
   3. Stream processing - Filter the anamoly records based on the configured threshold for a specified time window. Save the anamoly records in RDBMS which could then be sent as alerts. Achieved with the help of Apache Kafka Streams and connect.
 
 ### Getting started
-git clone https://github.com/vignesh093/PatientHealthMonitoring.git
+git clone https://github.com/riyazshaik11/PatientHealthMonitoring.git
